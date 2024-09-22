@@ -1,0 +1,17 @@
+.wrap {
+  padding: 0;
+  margin: 0;
+
+  padding: 24px;
+}
+
+.header {
+  color: black;
+  margin: 0;
+  margin-bottom: 16px;
+}
+
+.desc {
+  font-weight: 500;
+  margin: 0;
+}

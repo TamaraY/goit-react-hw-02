@@ -1,0 +1,11 @@
+.options {
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+  padding-left: 24px;
+  padding-bottom: 24px;
+}
+
+.btn {
+  border: 1px solid slategray;
+}
